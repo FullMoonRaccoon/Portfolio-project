@@ -1,0 +1,23 @@
+/*font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;*/
+.icon::before {
+  display: inline-block;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background-color: aliceblue;
+}
+
+h1 {
+  color: rgb(22, 12, 100);
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 84px;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+  font-weight: normal;
+}
